@@ -1,2 +1,2 @@
 # estrutura-de-dados-c
-Estruturas de Dados e Algoritmos em C
+Exercícios, algoritmos e estruturas de dados desenvolvidos em C.
