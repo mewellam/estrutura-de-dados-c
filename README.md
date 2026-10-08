@@ -2,7 +2,7 @@
 Exercícios, algoritmos e estruturas de dados desenvolvidos em C.
 
 - [X] Pilha sequencial
-- [ ] Pilha encadeada
+- [X] Pilha encadeada
 - [ ] Fila sequencial
 - [ ] Fila encadeada
 - [ ] Deques sequencial
