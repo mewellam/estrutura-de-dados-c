@@ -1,4 +1,4 @@
-// Pilha sequencial
+// Pilha encadeada
 // objetivo: empilhar e desempilhar containers
 // programador: Miguel Moraes
 
